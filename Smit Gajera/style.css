@@ -1,0 +1,56 @@
+body {
+    background-color:darkcyan;
+
+}
+table, thead, tbody, th, td {
+    border: 1px solid black;
+   width: 200px;
+   text-align: center;
+   margin: 10px;
+    
+}
+img{
+    width=100px; height=100px;
+}
+h1 {color: red;
+    text-align: center;
+}
+h2 {color: darkviolet;
+    text-align: center;
+}
+h4 { 
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+div  p {
+    background-color:yellowgreen;
+}
+
+
+a:link 
+{
+    color:#FF0000;
+}
+
+a:visited
+ {
+    color:#00FF00;
+}
+
+a:hover
+ {
+    color: #ff00ff;;
+}
+
+a:active 
+{
+    color:#0000FF;
+}
+
+ul {
+    style="list-style-type:none"; text-align:"center";
+}
+
+a[target="_blank"] {
+    background-color: yellow;
+    }
