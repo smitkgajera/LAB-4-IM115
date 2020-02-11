@@ -1,0 +1,32 @@
+	#header{
+		list-style-type:none;	
+		padding: 5px 0px;
+		border-bottom:2px solid #666;
+	}
+	div > p{
+		background-color:#666;
+	}
+	div + p{
+		text-align:center;
+		font-weight: bold;
+		font-size: 40px;
+	}
+	
+	a[target="_blank"]{
+		text-decoration:none;
+		color:#666;
+		margin-left:10px;
+	}
+	a:visited {
+		color: green;
+	}
+	a:hover {
+		color: yellow;
+	}
+	a:active {
+		color: blue;
+	}
+	td,th{
+		border:2px solid black;
+		
+	}
